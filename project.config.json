@@ -10,7 +10,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "1.9.1",
 	"appid": "wx8c4065584e91e61b",
-	"projectname": "weixinDemo",
+	"projectname": "Demo",
 	"isGameTourist": false,
 	"condition": {
 		"search": {

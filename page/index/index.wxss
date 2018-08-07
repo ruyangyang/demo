@@ -1,0 +1,9 @@
+/* page/index/index.wxss */
+/* @import "app.wxss"; */
+.text_title {
+  width: 100%;
+  height:auto;
+  font-size: 15px;
+  color: rgb(224, 75, 75);
+  text-align: center;
+}

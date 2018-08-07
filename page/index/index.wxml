@@ -1,0 +1,13 @@
+<!--page/index/index.wxml-->
+<scroll-view>
+  <swiper indicator-dots="{{indicatorDots}}" autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}">
+    <block wx:for="{{imgUrls}}">
+      <swiper-item>
+        <image src="{{item}}" bindtap="tapName" />
+      </swiper-item>
+    </block>
+  </swiper>
+  <view class='text_title' selectable='true' bindtap="tapTitle">ZHANGZHANG</view>
+
+
+</scroll-view>
